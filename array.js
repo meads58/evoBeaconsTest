@@ -1,1 +1,0 @@
-var testArray = ['this is a test']
